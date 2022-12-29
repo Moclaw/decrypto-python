@@ -4,4 +4,5 @@ Cách dùng:
 - bỏ secret key vào file config
 <br>
 - rồi dùng lệnh: `pip install -r requirements.txt`
-sau đó dùng lệnh: `py main.py -p <PasswordHash>`
+<br>
+- sau đó dùng lệnh: `py main.py -p <PasswordHash>`
